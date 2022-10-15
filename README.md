@@ -53,7 +53,7 @@ LinkedIn: https://www.linkedin.com/in/jordan-hackworth-898205217/ </br>
 E-mail: jhack00@icloud.com </br>
 
 <a href ="https://github.com/HacAtac/hac-portfolio" target="_blank">Link to my git hub application.</a></br>
-<a href ="https://hacatac.github.io/hac-portfolio/" target="_blank">Link to deployed application.</a>
+<a href ="https://jordanhackworth.azurewebsites.net/" target="_blank">Link to deployed application.</a>
 
 <h3>Screenshot of app!</h3>
 
