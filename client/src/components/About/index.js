@@ -1,5 +1,6 @@
 import React from "react";
-import devImage from "../../assets/small/portraits/0.jpg";
+//import devImage from "../../assets/small/portraits/0.jpg";
+import devImage from "../../assets/small/portraits/pic.png";
 
 function About() {
   return (
@@ -7,13 +8,25 @@ function About() {
       <h1 id="about" className="px-2">
         Who am I?
       </h1>
-      <img
-        id="dev-image"
-        src={devImage}
-        className="my-2 px-2"
-        style={{ width: "40%" }}
-        alt="dev"
-      />
+      <div className="dev-image-container">
+        <img
+          id="dev-image"
+          src={devImage}
+          className="devImage"
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            border: "1px solid black",
+            borderRadius: "25%",
+            padding: "10px",
+            margin: "10px",
+            backgroundColor: "#f3a847",
+          }}
+          alt="dev"
+        />
+      </div>
+
       <p className="px-2">
         My professional career started in sales and customer service. This
         helped me understand the consumers' expectations in the scope of what is
