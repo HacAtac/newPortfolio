@@ -2,6 +2,11 @@ import React from "react";
 import { Result, Button } from "antd";
 
 const Success = () => {
+  const todayDate = new Date();
+  //   const today = todayDate.toLocaleDateString();
+  //   const time = todayDate.toLocaleTimeString();
+  //   const dateTime = today + " " + time;
+
   return (
     <div className="success">
       <Result
