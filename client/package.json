@@ -1,6 +1,6 @@
 {
-  "homepage": "http://hacatac.github.io/hac-portfolio/",
-  "name": "hac-portfolio",
+  "homepage": "https://jordanhackworth.azurewebsites.net/",
+  "name": "jordanhackworth",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
