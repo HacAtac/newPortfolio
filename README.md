@@ -26,25 +26,20 @@
 ## Language
 
 JavaScript </br>
-JSX </br>
 React </br>
+React Hooks </br>
+Prop Drilling</br>
 TailWind </br>
 CSS </br>
-Object Oriented Programming </br>
-useEffect </br>
-useState </br>
-props</br>
+Node </br>
+Express </br>
+MongoDB </br>
+JSON Web Token </br>
+
 
 ## Contributing
 
 If you'd like to contribute to this App you can fork and clone this repo and have at it! </br>
-
-## User Story
-
-AS AN employer </br>
-I'm looking for candidates with experience building single-page applications </br>
-I WANT to view a potential employee's deployed React portfolio of work samples </br>
-SO THAT I can assess whether they're a good candidate for an open position </br>
 
 ## Author
 
