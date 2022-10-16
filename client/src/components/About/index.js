@@ -42,7 +42,7 @@ function About() {
         bit of Python and C#. I'm constantly learning new technologies and
         frameworks to improve my skills.
         <a
-          href="https://www.saltshakersystems.com/"
+          href="https://www.saltshakermedia.com/"
           target="_blank"
           rel="noreferrer"
         >
