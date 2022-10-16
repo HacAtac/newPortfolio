@@ -35,7 +35,7 @@ export default function Portfolio() {
         "Node, Express, mySQL, sequelize, bcrypt, sessions, handlebars, Heroku",
       ],
       github: "https://github.com/osbym/awsome-organics-gp2",
-      deployed: "https://awsomeorganics.herokuapp.com/",
+      deployed: "https://awesomeorganics.azurewebsites.net/",
       id: "1",
     },
     {
