@@ -1,17 +1,8 @@
 <h1>React Portfolio Application<h1>
 
 <h2>Description</h2>
-  <p>Created With: React, state, hooks, props, JSX, conditional rendering, form validation, tailwind + css, MVC structure. </br>
- First: I've created a react app</br> 
- Second: I've installed dependancies + for tailwindcss dependancies </br> 
- Third: Once I've connected to server, I have created About Me "home render"</br>
- Fourth: Then Ive made Header and Footer components that show correct page once clicked. </br>
- Fifth: I've made sure that the 'category click' updates the webpage title. </br>
- Sixth: Then I've made the Portfolio component and displayed 6 of my projects in cards that show links and are responsive.</br>
- Seventh: I've then made the Contact component and have made sure that the form has validation and have put a few icons to contact me via email/phone. </br>
- Eighth: Then I've made the Resume component and have listed my proficiencies as-well as a downloadle link to Resume('needs 2 be updated') </br>
- Ninth: I've then used some CSS animations to make the page more active and brushed up some break point issues </br>
- Once all functionality was completed I've used React to deploy live on GitHub Pages <a href ="https://hacatac.github.io/hac-portfolio/" target="_blank">Link to deployed application.</a>. </br>
+  <p>Created With: React, Component State, Prop Drilling, Node, Express, MongoDB. </br>
+ Once all functionality was completed I've deployed to an Azure Instance. <a href ="https://jordanhackworth.azurewebsites.net/" target="_blank">Link to deployed application.</a>. </br>
 
  </p>
 
@@ -36,7 +27,6 @@ Express </br>
 MongoDB </br>
 JSON Web Token </br>
 
-
 ## Contributing
 
 If you'd like to contribute to this App you can fork and clone this repo and have at it! </br>
@@ -50,10 +40,11 @@ If you have any questions, comments, or concerns please feel free to contact me.
 Jordan Hackworth aka HacAtac </br>
 GitHub repo: https://github.com/HacAtac/hac-portfolio </br>
 LinkedIn: https://www.linkedin.com/in/jordan-hackworth-898205217/ </br>
-E-mail: jhack00@icloud.com </br>
+E-mail: jhackworth00@outlook.com </br>
 
-<a href ="https://github.com/HacAtac/hac-portfolio" target="_blank">Link to my git hub application.</a></br>
-<a href ="https://hacatac.github.io/hac-portfolio/" target="_blank">Link to deployed application.</a>
+<a href ="https://github.com/HacAtac/hac-portfolio" target="_blank">Link to my old git hub application.</a></br>
+<a href ="https://github.com/HacAtac/newPortfolio" target="_blank"> Link to my new git hub code. </a></br>
+<a href ="https://jordanhackworth.azurewebsites.net/" target="_blank">Link to deployed application.</a>
 
 <h3>Screenshot of app!</h3>
 
